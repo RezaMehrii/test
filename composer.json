@@ -1,7 +1,7 @@
 {
     "name": "mrmh/composer",
     "description": "mrmh/chaining",
-    "type": "project",
+    "type": "package",
     "authors": [
         {
             "name": "Reza Mehri",
